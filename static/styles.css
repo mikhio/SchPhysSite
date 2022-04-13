@@ -1,0 +1,70 @@
+.header {
+    background-color: #dadada;
+    height: 50px;
+    font-size: 26px;
+    padding-left: 20px;
+    padding-top: 4px;
+}
+
+.gen-test {
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+.problem-card {
+    margin: 20px;
+}
+
+.answ-input {
+    width: 500px;
+}
+
+.fansw-input {
+    width: 420px;
+    display: table;
+    clear: both;
+}
+
+.btn-finish {
+    margin-right: 30px;
+}
+
+.answ-red {
+    border-color: #dc3545;
+    border-width: 1px;
+    width: 200px;
+    float: left;
+}
+
+.answ-green {
+    border-color: #198754;
+    border-width: 1px;
+    width: 200px;
+    float: left;
+}
+
+.right-answ {
+    border-color: #198754;
+    border-width: 1px;
+    width: 200px;
+    float: right;
+}
+
+.res-card-body {
+    display: flex;
+}
+
+.res-proc {
+    order: 1;
+}
+
+.res-count {
+    order: 2;
+    margin-left: 30px;
+}
+
+.res-time {
+    order: 2;
+    margin-left: 30px;
+}
